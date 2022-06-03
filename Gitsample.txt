@@ -1,2 +1,3 @@
 NaveenQA
 NaveenQAtester
+To implement the smoke and sanity method
